@@ -1,12 +1,28 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Programs"
+    url: http://playerone.smigiel.ca/programs/overview.html
+  - title: "Player Registration"
+    url: http://playerone.smigiel.ca/player-registration.html
+  - title: "Coaches"
+    url: http://playerone.smigiel.ca/coaches.html
+  - title: "Contacts"
+    url: http://playerone.smigiel.ca/contacts.html
+  - title: "Policies"
+    url: http://playerone.smigiel.ca/policies.html
+#sidebar navigation
+programs:
+  - title: "Programs"
+    children:
+      - title: "Overview"
+        url: http://playerone.smigiel.ca/programs/overview.html
+      - title: "Mini"
+        url: http://playerone.smigiel.ca/programs/mini-soccer.html
+      - title: "District"
+        url: http://playerone.smigiel.ca/programs/district-rec.html
+      - title: "City"
+        url: http://playerone.smigiel.ca/programs/wysa-rec.html
+      - title: "Indoor Mini"
+        url: http://playerone.smigiel.ca/programs/indoor-mini-soccer.html
+      - title: "Indoor"
+        url: http://playerone.smigiel.ca/programs/indoor-rec.html
