@@ -33,13 +33,13 @@ On-line soccer registration:  Starts Feb 22, 2019
 
 ### Mini-Soccer, ages 3 through 8:
 * No restrictions on where you live
-* [Mini Soccer Details](http://playerone.smigiel.ca/programs/mini-soccer)
+* [Mini Soccer Details]({{ site.baseurl }}/programs/mini-soccer)
 
 ### Ages 9 through 18:
  * Must be a resident of Charleswood or Headingley to register with CYSA.
  * Headingley residents must follow the [Out of Region Transfer Procedure](http://manitobasoccer.ca/files/out_of_region_transfer_request_procedure_2018-19.pdf) and/or fill out the electronic [Out of Region Transfer Application Form](https://msa-manitobasoccer.goalline.ca/page.php?page_id=115191) by February 21.
- * [District Recreational Soccer Details (U9-U12)](http://playerone.smigiel.ca/programs/district-rec)
- * [City Recreational Soccer Details (U13-U18)](http://playerone.smigiel.ca/programs/wysa-rec)
+ * [District Recreational Soccer Details (U9-U12)]({{ site.baseurl }}/programs/district-rec)
+ * [City Recreational Soccer Details (U13-U18)]({{ site.baseurl }}/programs/wysa-rec)
 
 ### Information about Soccer Club Boundaries:
 * [Find your soccer registration club](http://wysa.gameonmanager.com/home_organization.php)

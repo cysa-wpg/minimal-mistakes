@@ -20,7 +20,7 @@ title                    : "Charleswood Youth Soccer Association"
 title_separator          : "-"
 name                     : "CYSA"
 description              : "Charleswood Youth Soccer Association is a volunteer run, non-profit organization dedicated to providing quality recreational soccer programs in Winnipeg Manitoba Canada."
-url                      : "http://playerone.smigiel.ca"
+url                      : "http://charleswoodsoccer.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cysa-wpg/www-charleswoodsoccer-com"
 logo                     : "/assets/images/50thlogo_57x100.png"
@@ -155,7 +155,7 @@ footer:
 #      # url:
 
 #Build
-#destination: /var/www/www-charleswoodsoccer-com
+destination: /var/www/www-charleswoodsoccer-com
 
 # Reading Files
 include:

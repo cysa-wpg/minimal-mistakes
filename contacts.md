@@ -23,8 +23,8 @@ Please put the word CYSA at the front of the subject line so that it will be obv
 </tr>
 <tr>
 <td><span style="font-size: medium;">Vice-President</span></td>
-<td><span style="font-size: medium;">Dave Watson</span></td>
-<td><span style="font-size: medium;">davewatson.c21@gmail.com</span></td>
+<td><span style="font-size: medium;">Vacant</span></td>
+<td><span style="font-size: medium;">&nbsp;</span></td>
 </tr>
 <tr>
 <td><span style="font-size: medium;">Treasurer</span></td>

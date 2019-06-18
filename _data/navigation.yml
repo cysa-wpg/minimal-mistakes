@@ -1,28 +1,28 @@
 # main links
 main:
   - title: "Programs"
-    url: http://playerone.smigiel.ca/programs/overview.html
+    url: http://charleswoodsoccer.com/programs/overview.html
   - title: "Player Registration"
-    url: http://playerone.smigiel.ca/player-registration.html
+    url: http://charleswoodsoccer.com/player-registration.html
   - title: "Coaches"
-    url: http://playerone.smigiel.ca/coaches.html
+    url: http://charleswoodsoccer.com/coaches.html
   - title: "Contacts"
-    url: http://playerone.smigiel.ca/contacts.html
+    url: http://charleswoodsoccer.com/contacts.html
   - title: "Policies"
-    url: http://playerone.smigiel.ca/policies.html
+    url: http://charleswoodsoccer.com/policies.html
 #sidebar navigation
 programs:
   - title: "Programs"
     children:
       - title: "Overview"
-        url: http://playerone.smigiel.ca/programs/overview.html
+        url: http://charleswoodsoccer.com/programs/overview.html
       - title: "Mini"
-        url: http://playerone.smigiel.ca/programs/mini-soccer.html
+        url: http://charleswoodsoccer.com/programs/mini-soccer.html
       - title: "District"
-        url: http://playerone.smigiel.ca/programs/district-rec.html
+        url: http://charleswoodsoccer.com/programs/district-rec.html
       - title: "City"
-        url: http://playerone.smigiel.ca/programs/wysa-rec.html
+        url: http://charleswoodsoccer.com/programs/wysa-rec.html
       - title: "Indoor Mini"
-        url: http://playerone.smigiel.ca/programs/indoor-mini-soccer.html
+        url: http://charleswoodsoccer.com/programs/indoor-mini-soccer.html
       - title: "Indoor"
-        url: http://playerone.smigiel.ca/programs/indoor-rec.html
+        url: http://charleswoodsoccer.com/programs/indoor-rec.html
