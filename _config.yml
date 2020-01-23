@@ -154,7 +154,8 @@ footer:
 #      icon: "fab fa-fw fa-bitbucket"
 #      # url:
 
-#Build
+#Build deploy copy install
+# Comment the 'destination:' line out before doing a debug build
 destination: /var/www/www-charleswoodsoccer-com
 
 # Reading Files
