@@ -37,7 +37,7 @@ Please contact the appropriate individual or email address below directly as app
 </tr>
 <tr>
 <td><span style="font-size: medium;">Girls Convenor</span></td>
-<td><span style="font-size: medium;">Melissa Asplin</span></td>
+<td><span style="font-size: medium;">Vacant. Please volunteer.</span></td>
 <td><span style="font-size: medium;">girls.convenor@charleswoodsoccer.com</span></td>
 </tr>
 <tr>
