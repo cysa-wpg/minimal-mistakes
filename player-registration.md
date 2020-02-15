@@ -39,14 +39,15 @@ On-line soccer registration:  Starts Feb 20, 2020
 * [Mini Soccer Details]({{ site.baseurl }}/programs/mini-soccer.html)
 
 ### Ages 9 through 18:
- * Effective January 20, 2020, there are no restrictions on where you live. [Out of Region Transfer rule memo](http://manitobasoccer.ca/page.php?115191)
+ * Must be a resident of Charleswood or Headingly to register with CYSA
  * [District Recreational Soccer Details (U9-U12)]({{ site.baseurl }}/programs/district-rec.html)
  * [City Recreational Soccer Details (U13-U18)]({{ site.baseurl }}/programs/wysa-rec.html)
 
 ### Information about Soccer Club Boundaries:
-* Effective January 20, 2020, players can register in any club, provided they meet the requirements. [Out of Region Transfer rule memo](http://manitobasoccer.ca/page.php?115191)
+* Effective January 20, 2020, players outside of Winnipeg (e.g. Headingly) do no require a MSA 'Out of Regon Transfer' [Out of Region Transfer memo](http://manitobasoccer.ca/page.php?page_id=115191)
 * [Find your soccer registration club](http://wysa.gameonmanager.com/home_organization.php)
 * CYSA includes community centers: Varsity View CC, Roblin Park CC, and Westdale CC
+* Residents outside of Charleswood and Headingly register with your local soccer club
 * [St. Charles Soccer Association list of Community Centers](http://www.stcharles-soccer.com/index.php?src=gendocs&ref=2018%20CC%20Website%20Information&category=Rec%20Outdoor)
 * [WYSA Club Boundaries and Members](http://winnipegyouthsoccer.com/page.php?page_id=103662)
 
