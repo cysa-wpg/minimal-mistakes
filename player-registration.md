@@ -44,7 +44,7 @@ On-line soccer registration:  Starts Feb 20, 2020
  * [City Recreational Soccer Details (U13-U18)]({{ site.baseurl }}/programs/wysa-rec.html)
 
 ### Information about Soccer Club Boundaries:
-* Effective January 20, 2020, players outside of Winnipeg (e.g. Headingly) do no require a MSA 'Out of Regon Transfer' [Out of Region Transfer memo](http://manitobasoccer.ca/page.php?page_id=115191)
+* Effective January 20, 2020, players outside of Winnipeg (e.g. Headingly) do not require a MSA 'Out of Regon Transfer' [Out of Region Transfer memo](http://manitobasoccer.ca/page.php?page_id=115191)
 * [Find your soccer registration club](http://wysa.gameonmanager.com/home_organization.php)
 * CYSA includes community centers: Varsity View CC, Roblin Park CC, and Westdale CC
 * Residents outside of Charleswood and Headingly register with your local soccer club
