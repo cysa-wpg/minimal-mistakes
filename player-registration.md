@@ -2,10 +2,31 @@
 layout: home
 header:
   overlay_image: /assets/images/splashB_v1_1280.jpg
-title: 2020 Player Registration
+title: 2020 Outdoor Player Registration
 ---
-### On-line Registration:
- * [Register](http://www.cysawinnipeg.com/members) (starting Feb 20)
+### 2020 Indoor Soccer Registration
+---
+On-line, registration for indoor soccer:  [Register Now](http://www.cysawinnipeg.com/members)  
+  
+In person, registration for indoor soccer:
++ Cancelled due to Covid-19.
++ A payment cheque may be mailed in.
++ Email <registrar@charleswoodsoccer.com> for details.
+
+Deadlines:  
+* U9-U18 Indoor Registration Deadline: October 6, 2020
+  
+2020 CYSA Indoor Recreational Soccer Fees:  
+* U9-U18, born in 2002-2011: $345  
+
+More information:  
+
+*  [Charleswood Recreational Soccer Program Information](https://charleswoodsoccer.com/programs/indoor-rec.html)
+*  [St. Charles Recreational Indoor Soccer Information U9 to U18](http://www.stcharles-soccer.com/index.php?src=gendocs&ref=Indoor%20Recreational%20information%20page&category=Main)
+
+   Note: St. Charles is the parent organizaton of CYSA.
+### Outdoor On-line Registration:
+ * [Register](http://www.cysawinnipeg.com/members) (starting Feb 20, 2020)
 
 ### In person, outdoor soccer registration:
  * Location: [Charleswood Library, meeting room, 4910 Roblin Blvd](https://goo.gl/maps/zHSWqZLpVb1Z2jss6)

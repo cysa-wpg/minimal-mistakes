@@ -5,7 +5,7 @@ header:
 title: Policies
 ---
 
-[CYSA By-Laws 2017 (PDF)]({{ site.baseurl }}/assets/pdf/CYSA By-Laws 2017.pdf)
+[CYSA By-Laws 2019 (PDF)]({{ site.baseurl }}/assets/pdf/CYSA By-Laws 2019.pdf)
 
 [CYSA-Code of Conduct and Ethics 2018-12-03 (PDF)]({{ site.baseurl }}/assets/pdf/CYSA-Code of Conduct and Ethics 2018-12-03.pdf)
 

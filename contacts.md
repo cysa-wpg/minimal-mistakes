@@ -4,7 +4,7 @@ header:
   overlay_image: /assets/images/splashB_v1_1280.jpg
 title: Contacts
 ---
-The following are the executive for the 2019 - 2020 season  (October 2019 to October 2020).
+The following are the executive for the 2020 - 2021 season  (October 2020 to October 2021).
 The executive are voted in at the annual general meeting, which is held each year in October.
 
 Please contact the appropriate individual or email address below directly as appropriate. 
@@ -37,7 +37,7 @@ Please contact the appropriate individual or email address below directly as app
 </tr>
 <tr>
 <td><span style="font-size: medium;">Girls Convenor</span></td>
-<td><span style="font-size: medium;">Vacant. Please volunteer.</span></td>
+<td><span style="font-size: medium;">Amanda Schell</span></td>
 <td><span style="font-size: medium;">girls.convenor@charleswoodsoccer.com</span></td>
 </tr>
 <tr>
